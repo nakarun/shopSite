@@ -1,0 +1,48 @@
+#site-box {
+        width : 1150px;
+	height : 850px;
+        border: 1px solid #FFFFFF;
+}
+
+#a-box {
+	width : 1150px;
+	height: 100px;
+	border-bottom: 1px solid #FFFFFF;
+	background-image: url('');
+	background-color: ;
+}
+
+#b-box {
+	float: left;
+	width: 250px;
+	height: 600px;
+	background-color:  
+}
+
+#c-box {
+	float: left;
+	width: 700px;
+	height: 600px;
+	background-color: ;
+}
+
+#d-box {
+	float: right;
+	width: 200px;
+	height: 600px;
+	background-color: ;
+}
+
+
+
+#e-box {
+	clear: both;
+	width: 1150px;
+	height : 50px;
+	background-color: ;
+	font-size: 12px;
+	padding : 0px;
+	text-align: center;
+}
+
+
